@@ -1,0 +1,10 @@
+# aws provider binary and module config
+.terraform
+
+# state files
+*.tfstate
+*.tfstate.backup
+
+# run time state file
+*.terraform.tfstate.lock*
+
